@@ -1,0 +1,21 @@
+Optional Assignment:
+
+Check if the given value is any other datatype than an int/float. (If/Else type())
+
+Make the input text more User Friendly. (UI/UX)
+
+Add Squared and Square Root Operation.
+
+Option to restart the calculator.
+
+Make functions for each arithmetic option.
+
+
+Optional Advanced:
+
+Let it be possible for the user to use multiple operators and numbers for a longer equation.
+
+Create a History for the Calculator.
+
+Create Ads for the Calculator.
+
